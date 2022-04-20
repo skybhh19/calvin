@@ -13,7 +13,7 @@ suites.
 # :computer:  Quick Start
 To begin, clone this repository locally
 ```bash
-git clone --recurse-submodules https://github.com/mees/calvin.git
+git clone --recurse-submodules https://github.com/snasiriany/calvin.git
 $ export CALVIN_ROOT=$(pwd)/calvin
 
 ```
