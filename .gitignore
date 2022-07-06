@@ -133,8 +133,8 @@ dmypy.json
 
 */runs/*
 
-dataset/task_D_D/*
-dataset/task_ABCD_D/*
-dataset/task_ABC_D/*
+dataset/task_D_D/**/*.npz
+dataset/task_ABCD_D/**/*.npz
+dataset/task_ABC_D/**/*.npz
 
 .idea/*
